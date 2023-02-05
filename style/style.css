@@ -1,0 +1,17 @@
+body{
+    background: url(/img/weather-hot.jpg);
+    font-family:'Courier New', Courier, monospace
+
+}
+
+.box {
+    
+    box-shadow: 5px 5px 5px black;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 3px;
+}
+
+#app {
+    text-align: center;
+}
